@@ -1,0 +1,47 @@
+body {
+    width: 350px;
+    margin: 0;
+    padding: 0 10px;
+    font-size: 14px;
+    font-family: "Arial", sans-serif;
+  }
+  table {
+      border-collapse: collapse;
+      width: 350px;
+    }
+  
+  td {
+      border-bottom: 2px solid lightgray;
+      padding: 10px
+  }
+  
+  th {
+      color: white;
+      background-color: darkcyan;
+      padding: 10px;
+      border-bottom: 1px solid black;
+      border-top: 1px solid black;
+  }
+  
+  .row {
+      background-color: lightblue;
+  }
+  
+  .row-1 {
+      background-color: lightyellow;
+  }
+  
+  .row-2 {
+      background-color: lightyellow;
+  }
+  
+  .cell {
+      text-align: right;
+  }
+  
+  .cell-1 {
+      text-align: center;
+  }
+  .cell-2 {
+   text-align: left; 
+  }
